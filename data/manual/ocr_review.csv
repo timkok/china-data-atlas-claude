@@ -1,0 +1,153 @@
+cell_id,value,reviewer,date,note
+2016/0206CH.jpg#r10c0,7523,claude-visual,2026-11-23,read from source image; OCR A=1523 B=7523
+2016/0206CH.jpg#r19c0,9111,claude-visual,2026-11-23,read from source image; OCR A=9111 B=9114
+2025/C02-05.jpg#r3c4,7447,claude-visual,2026-11-23,read from source image; OCR A=1447 B=7447
+2016/0207CH.jpg#r17c0,44.30,claude-visual,2026-11-23,read from source image; OCR A=44.30 B=4430
+2016/0207CH.jpg#r30c0,44.02,claude-visual,2026-11-23,read from source image; OCR A=44.02 B=4402
+2025/C02-06.jpg#r10c9,75.53,claude-visual,2026-11-23,read from source image; OCR A=75.63 B=75.53
+2020/C0617.jpg#r5c0,18692.9,claude-visual,2026-11-23,read from source image; OCR A=18692.9 B=186929
+2020/C0619.jpg#r7c0,12054.3,claude-visual,2026-11-23,read from source image; OCR A=12054.3 B=120543
+2023/C06-20.jpg#r8c0,14445.8,claude-visual,2026-11-23,read from source image; OCR A=14445.8 B=144458
+2016/0208CH.jpg#r0c6,7.11,claude-visual,2026-11-23,read from source image; OCR A=7.11 B=14
+2016/0208CH.jpg#r2c6,5.61,claude-visual,2026-11-23,read from source image; OCR A=5.61 B=5.64
+2017/CH0208.jpg#r4c6,5.52,claude-visual,2026-11-23,read from source image; OCR A=5.62 B=5.52
+2017/CH0208.jpg#r4c7,4.77,claude-visual,2026-11-23,read from source image; OCR A=4.77 B=477
+2017/CH0208.jpg#r10c7,2.73,claude-visual,2026-11-23,read from source image; OCR A=2.73 B=2.13
+2017/CH0208.jpg#r11c6,5.52,claude-visual,2026-11-23,read from source image; OCR A=5.62 B=5.52
+2017/CH0208.jpg#r19c6,4.41,claude-visual,2026-11-23,read from source image; OCR A=4.41 B=444
+2017/CH0208.jpg#r22c7,4.53,claude-visual,2026-11-23,read from source image; OCR A=4.63 B=4.53
+2017/CH0208.jpg#r27c7,4.41,claude-visual,2026-11-23,read from source image; OCR A=4.41 B=441
+2018/CH0208.jpg#r27c7,4.87,claude-visual,2026-11-23,read from source image; OCR A=4.87 B=487
+2019/C0208.jpg#r1c6,5.58,claude-visual,2026-11-23,read from source image; OCR A=558 B=5.58
+2019/C0208.jpg#r2c6,5.42,claude-visual,2026-11-23,read from source image; OCR A=542 B=5.42
+2019/C0208.jpg#r3c7,4.88,claude-visual,2026-11-23,read from source image; OCR A=4.88 B=488
+2019/C0208.jpg#r4c5,9.63,claude-visual,2026-11-23,read from source image; OCR A=9.63 B=963
+2019/C0208.jpg#r4c6,5.32,claude-visual,2026-11-23,read from source image; OCR A=532 B=5.32
+2019/C0208.jpg#r4c7,4.31,claude-visual,2026-11-23,read from source image; OCR A=4.31 B=431
+2019/C0208.jpg#r9c6,5.40,claude-visual,2026-11-23,read from source image; OCR A=540 B=5.40
+2019/C0208.jpg#r10c5,9.32,claude-visual,2026-11-23,read from source image; OCR A=9.32 B=932
+2019/C0208.jpg#r11c6,5.58,claude-visual,2026-11-23,read from source image; OCR A=558 B=5.58
+2019/C0208.jpg#r11c7,5.44,claude-visual,2026-11-23,read from source image; OCR A=544 B=5.44
+2019/C0208.jpg#r12c6,5.96,claude-visual,2026-11-23,read from source image; OCR A=596 B=5.96
+2019/C0208.jpg#r20c6,5.96,claude-visual,2026-11-23,read from source image; OCR A=596 B=5.96
+2019/C0208.jpg#r30c6,5.54,claude-visual,2026-11-23,read from source image; OCR A=554 B=5.54
+2020/C0208.jpg#r15c7,4.27,claude-visual,2026-11-23,read from source image; OCR A=427 B=4.27
+2020/C0208.jpg#r17c7,4.27,claude-visual,2026-11-23,read from source image; OCR A=427 B=4.27
+2020/C0208.jpg#r18c7,3.11,claude-visual,2026-11-23,read from source image; OCR A=3.11 B=3.14
+2020/C0208.jpg#r20c7,7.17,claude-visual,2026-11-23,read from source image; OCR A=7.17 B=717
+2020/C0208.jpg#r21c6,6.11,claude-visual,2026-11-23,read from source image; OCR A=6.11 B=6.14
+2019/C0206.jpg#r10c0,7723,claude-visual,2026-11-23,read from source image; OCR A= B= raw=7723
+2020/C0208.jpg#r3c7,4.71,claude-visual,2026-11-23,read from source image; OCR A=4.71 B= raw=471
+2020/C0208.jpg#r23c7,3.61,claude-visual,2026-11-23,read from source image; OCR A=3.61 B=3.64 raw=
+2020/C0208.jpg#r27c7,4.27,claude-visual,2026-11-23,read from source image; OCR A=4.27 B=4.27 raw=
+2022/C02-07.jpg#r6c5,4.71,claude-visual,2026-11-23,read from source image; OCR A=4.71 B= raw=471
+2022/C02-07.jpg#r7c5,4.70,claude-visual,2026-11-23,read from source image; OCR A=4.70 B=4.70 raw=
+2022/C02-07.jpg#r9c5,4.67,claude-visual,2026-11-23,read from source image; OCR A=4.67 B= raw=467
+2022/C02-07.jpg#r9c6,5.59,claude-visual,2026-11-23,read from source image; OCR A=5.59 B=5.59 raw=
+2022/C02-07.jpg#r19c6,4.83,claude-visual,2026-11-23,read from source image; OCR A=4.83 B=4.83 raw=
+2022/C02-07.jpg#r26c6,5.47,claude-visual,2026-11-23,read from source image; OCR A=5.47 B=5.47 raw=
+2022/C02-07.jpg#r29c5,11.22,claude-visual,2026-11-23,read from source image; OCR A=11.22 B=41.22 raw=
+2022/C02-07.jpg#r30c7,5.53,claude-visual,2026-11-23,read from source image; OCR A=5.53 B=5.53 raw=
+2022/C02-07.jpg#r31c6,5.60,claude-visual,2026-11-23,read from source image; OCR A=5.60 B=5.60 raw=
+2023/C02-07.jpg#r0c6,7.37,claude-visual,2026-11-23,read from source image; OCR A=1.37 B=7.37 raw=
+2023/C02-07.jpg#r6c7,-4.96,claude-visual,2026-11-23,read from source image; OCR A=-4.96 B=4.96 raw=
+2023/C02-07.jpg#r8c7,-5.75,claude-visual,2026-11-23,read from source image; OCR A=5.75 B=-5.75 raw=
+2024/C02-07.jpg#r24c6,7.77,claude-visual,2026-11-23,read from source image; OCR A=77 B=17 raw=
+2025/C02-07.jpg#r7c5,4.17,claude-visual,2026-11-23,read from source image; OCR A=4.17 B=4.17 raw=
+2025/C02-07.jpg#r7c7,-4.85,claude-visual,2026-11-23,read from source image; OCR A=4.85 B=4.35 raw=
+2025/C02-07.jpg#r9c5,4.75,claude-visual,2026-11-23,read from source image; OCR A=4.76 B=4.75 raw=
+2025/C02-07.jpg#r29c6,7.41,claude-visual,2026-11-23,read from source image; OCR A=7.41 B=7.41 raw=
+2025/C02-07.jpg#r30c7,4.52,claude-visual,2026-11-23,read from source image; OCR A=4.62 B=4.52 raw=
+2016/0212CH.jpg#r3c0,1155542,claude-visual,2026-11-23,read from source image; OCR A=1165542 B=1155542 raw=
+2016/0212CH.jpg#r10c3,157135,claude-visual,2026-11-23,read from source image; OCR A=167135 B=157135 raw=
+2016/0212CH.jpg#r17c6,15.27,claude-visual,2026-11-23,read from source image; OCR A=16.27 B=15.27 raw=
+2016/0212CH.jpg#r18c6,15.95,claude-visual,2026-11-23,read from source image; OCR A=16.95 B=15.95 raw=
+2016/0212CH.jpg#r21c3,11954,claude-visual,2026-11-23,read from source image; OCR A=11954 B=41954 raw=
+2017/CH0212.jpg#r30c3,441,claude-visual,2026-11-23,read from source image; OCR A=441 B=444 raw=
+2018/CH0212.jpg#r27c6,15.14,claude-visual,2026-11-23,read from source image; OCR A=16.14 B=15.14 raw=
+2019/C0212.jpg#r26c0,2817,claude-visual,2026-11-23,read from source image; OCR A=2017 B=2817 raw=
+2020/C0212.jpg#r3c3,7767,claude-visual,2026-11-23,read from source image; OCR A=7767 B=1767 raw=
+2022/C02-11.jpg#r19c3,12252,claude-visual,2026-11-23,read from source image; OCR A=12252 B=42252 raw=
+2022/C02-11.jpg#r21c0,10800,claude-visual,2026-11-23,read from source image; OCR A=10800 B=40800 raw=
+2023/C02-11.jpg#r6c6,28.77,claude-visual,2026-11-23,read from source image; OCR A=28.17 B=28.77 raw=
+2025/C02-11.jpg#r0c6,22.85,claude-visual,2026-11-23,read from source image; OCR A=22.05 B=22.85 raw=
+2025/C02-11.jpg#r3c0,75943,claude-visual,2026-11-23,read from source image; OCR A=15943 B=75943 raw=
+2025/C02-11.jpg#r7c6,27.47,claude-visual,2026-11-23,read from source image; OCR A=27.47 B=27.47 raw=
+2025/C02-11.jpg#r18c3,11228,claude-visual,2026-11-23,read from source image; OCR A=11228 B=41228 raw=
+2025/C02-11.jpg#r26c6,9.01,claude-visual,2026-11-23,read from source image; OCR A=9.01 B=9.01 raw=
+2017/CH0309.jpg#r1c13,115053,claude-visual,2026-11-23,read from source image; OCR A=116053 B=115053 raw=
+2017/CH0309.jpg#r11c0,24407.62,claude-visual,2026-11-23,read from source image; OCR A=24407.62 B=24407.62 raw=
+2017/CH0309.jpg#r14c0,68024.49,claude-visual,2026-11-23,read from source image; OCR A=68024.49 B=68024.49 raw=
+2017/CH0309.jpg#r18c0,80854.91,claude-visual,2026-11-23,read from source image; OCR A=80854.91 B=80854.94 raw=
+2017/CH0309.jpg#r24c0,14788.42,claude-visual,2026-11-23,read from source image; OCR A=14788.42 B=14788.42 raw=
+2017/CH0309.jpg#r25c0,1151.41,claude-visual,2026-11-23,read from source image; OCR A=1161.41 B=1151.41 raw=
+2017/CH0309.jpg#r28c13,43531,claude-visual,2026-11-23,read from source image; OCR A=43631 B=43531 raw=
+2018/CH0309.jpg#r5c0,23409.24,claude-visual,2026-11-23,read from source image; OCR A=23409.24 B=23409.24 raw=
+2018/CH0309.jpg#r6c0,14944.53,claude-visual,2026-11-23,read from source image; OCR A=14944.53 B=14944.53 raw=
+2018/CH0309.jpg#r14c0,72634.15,claude-visual,2026-11-23,read from source image; OCR A=12634.15 B=72634.15 raw=
+2018/CH0309.jpg#r21c0,19424.73,claude-visual,2026-11-23,read from source image; OCR A=19424.73 B=19424.73 raw=
+2018/CH0309.jpg#r27c13,28497,claude-visual,2026-11-23,read from source image; OCR A=20497 B=28497 raw=
+2019/C0309.jpg#r5c0,25315.35,claude-visual,2026-11-23,read from source image; OCR A=2315.35 B=25315.35 raw=
+2019/C0309.jpg#r5c4,58008,claude-visual,2026-11-23,read from source image; OCR A=68008 B=58008 raw=
+2019/C0309.jpg#r20c4,51955,claude-visual,2026-11-23,read from source image; OCR A=61955 B=51955 raw=
+2020/C0309.jpg#r0c0,35371.28,claude-visual,2026-11-23,read from source image; OCR A=3371.28 B=35371.28 raw=
+2020/C0309.jpg#r2c0,35104.52,claude-visual,2026-11-23,read from source image; OCR A=3104.52 B=35104.52 raw=
+2020/C0309.jpg#r13c0,24757.50,claude-visual,2026-11-23,read from source image; OCR A=24757.50 B=24757.50 raw=
+2020/C0309.jpg#r16c13,77387,claude-visual,2026-11-23,read from source image; OCR A=17387 B=77387 raw=
+2020/C0309.jpg#r17c0,39752.12,claude-visual,2026-11-23,read from source image; OCR A=39752.12 B=39752.12 raw=
+2022/C03-09.jpg#r1c0,15695.0,claude-visual,2026-11-23,read from source image; OCR A=16695.0 B=15695.0 raw=
+2022/C03-09.jpg#r2c13,54172,claude-visual,2026-11-23,read from source image; OCR A=64172 B=54172 raw=
+2022/C03-09.jpg#r9c0,116364.2,claude-visual,2026-11-23,read from source image; OCR A=116364.2 B=116364.2 raw=
+2022/C03-09.jpg#r11c0,42959.2,claude-visual,2026-11-23,read from source image; OCR A=42959.2 B=42959.2 raw=
+2022/C03-09.jpg#r15c0,58887.4,claude-visual,2026-11-23,read from source image; OCR A=58887.4 B=58887.4 raw=
+2022/C03-09.jpg#r29c0,4522.3,claude-visual,2026-11-23,read from source image; OCR A=4622.3 B=4522.3 raw=
+2023/C03-09.jpg#r10c0,77715.4,claude-visual,2026-11-23,read from source image; OCR A=71715.4 B=77715.4 raw=
+2023/C03-09.jpg#r23c13,52321,claude-visual,2026-11-23,read from source image; OCR A=62321 B=52321 raw=
+2023/C03-09.jpg#r26c0,32772.7,claude-visual,2026-11-23,read from source image; OCR A=32772.7 B=32772.7 raw=
+2024/C03-09.jpg#r9c0,128222.2,claude-visual,2026-11-23,read from source image; OCR A=128222.2 B=128222.2 raw=
+2024/C03-09.jpg#r24c0,30021.1,claude-visual,2026-11-23,read from source image; OCR A=30021.1 B=30021.4 raw=
+2024/C03-09.jpg#r26c0,33786.1,claude-visual,2026-11-23,read from source image; OCR A=33786.1 B=33786.4 raw=
+2024/C03-09.jpg#r29c13,72957,claude-visual,2026-11-23,read from source image; OCR A=12957 B=72957 raw=
+2025/C03-09.jpg#r1c0,18024.3,claude-visual,2026-11-23,read from source image; OCR A=18024.3 B=18024.3 raw=
+2025/C03-09.jpg#r3c0,25494.7,claude-visual,2026-11-23,read from source image; OCR A=25494.7 B=25494.7 raw=
+2025/C03-09.jpg#r22c13,77333,claude-visual,2026-11-23,read from source image; OCR A=17333 B=77333 raw=
+2025/C03-09.jpg#r24c0,31534.1,claude-visual,2026-11-23,read from source image; OCR A=31534.1 B=31534.4 raw=
+2016/2124CH.jpg#r9c3,511623,claude-visual,2026-11-23,read from source image; OCR A=611623 B=511623 raw=
+2020/C2114.jpg#r17c3,1500819,claude-visual,2026-11-23,read from source image; OCR A=1600819 B=1500819 raw=
+2018/CH0309.jpg#r15c0,44552.83,claude-visual,2026-11-23,read from source image; OCR A=44552.83 B= raw=4455283
+2023/C03-09.jpg#r8c0,44652.8,claude-visual,2026-11-23,read from source image; OCR A=44652.8 B= raw=446528
+2023/C21-14.jpg#r12c4,1553535,claude-visual,2026-11-23,read from source image; OCR A=1653535 B=1553535 raw=
+2023/C21-14.jpg#r28c4,648141,claude-visual,2026-11-23,read from source image; OCR A=648141 B=648144 raw=
+2025/C21-14.jpg#r20c4,1515504,claude-visual,2026-11-23,read from source image; OCR A=1615504 B=1515504 raw=
+2020/C2115.jpg#r19c0,154,claude-visual,2026-11-23,read from source image; OCR A=164 B=154 raw=
+2022/C21-15.jpg#r15c0,153,claude-visual,2026-11-23,read from source image; OCR A=163 B=153 raw=
+2022/C21-15.jpg#r16c0,156,claude-visual,2026-11-23,read from source image; OCR A=166 B=156 raw=
+2023/C21-15.jpg#r15c0,153,claude-visual,2026-11-23,read from source image; OCR A=163 B=153 raw=
+2023/C21-15.jpg#r16c0,156,claude-visual,2026-11-23,read from source image; OCR A=166 B=156 raw=
+2024/C21-15.jpg#r24c0,77,claude-visual,2026-11-23,read from source image; OCR A=17 B=7 raw=
+2025/C21-15.jpg#r22c0,73,claude-visual,2026-11-23,read from source image; OCR A=73 B=13 raw=
+2017/CH2208.jpg#r2c3,82.1,claude-visual,2026-11-23,read from source image; OCR A=82.1 B=82.4 raw=
+2017/CH2208.jpg#r5c3,74.7,claude-visual,2026-11-23,read from source image; OCR A=74.7 B=14.7 raw=
+2018/CH2208.jpg#r26c3,72.1,claude-visual,2026-11-23,read from source image; OCR A=72.1 B=72.4 raw=
+2019/C2208.jpg#r2c3,77.5,claude-visual,2026-11-23,read from source image; OCR A=17.5 B=77.5 raw=
+2022/C22-08.jpg#r8c3,55.5,claude-visual,2026-11-23,read from source image; OCR A=65.5 B=55.5 raw=
+2022/C22-08.jpg#r10c3,77.2,claude-visual,2026-11-23,read from source image; OCR A=77.2 B=17.2 raw=
+2022/C22-08.jpg#r13c3,73.6,claude-visual,2026-11-23,read from source image; OCR A=73.6 B=13.6 raw=
+2023/C22-08.jpg#r17c3,77.2,claude-visual,2026-11-23,read from source image; OCR A=17.2 B=77.2 raw=
+2024/C22-08.jpg#r8c3,72.2,claude-visual,2026-11-23,read from source image; OCR A=12.2 B=72.2 raw=
+2024/C22-08.jpg#r28c3,75.2,claude-visual,2026-11-23,read from source image; OCR A=15.2 B=75.2 raw=
+2024/C22-08.jpg#r30c3,79.7,claude-visual,2026-11-23,read from source image; OCR A=79.7 B=19.7 raw=
+2025/C22-08.jpg#r14c3,76.7,claude-visual,2026-11-23,read from source image; OCR A=16.7 B=76.7 raw=
+2025/C22-08.jpg#r27c3,77.8,claude-visual,2026-11-23,read from source image; OCR A=17.8 B=77.8 raw=
+2025/C22-08.jpg#r29c3,71.8,claude-visual,2026-11-23,read from source image; OCR A=71.8 B=71.8 raw=
+2018/CH0206.jpg#r10c1,7723,claude-visual,2026-11-23,"consensus OCR read 1723; source image shows 7723 (Jiangsu 2007)"
+2017/CH0206.jpg#r10c2,7723,claude-visual,2026-11-23,"consensus OCR read 1723; source image shows 7723 (Jiangsu 2007)"
+2022/C02-07.jpg#r0c5,7.52,claude-visual,2026-11-23,"gate: consensus OCR read 1.52; image shows 7.52"
+2022/C02-07.jpg#r0c6,7.18,claude-visual,2026-11-23,"gate: consensus OCR read 1.18; image shows 7.18"
+2024/C02-07.jpg#r0c6,7.87,claude-visual,2026-11-23,"gate: consensus OCR read 1.87; image shows 7.87"
+2024/C02-11.jpg#r0c3,228252,claude-visual,2026-11-23,"gate: OCR merged two cells; image shows 228252"
+2022/C22-08.jpg#r0c3,74.6,claude-visual,2026-11-23,"gate: consensus OCR read 14.6; image shows 74.6"
+2022/C02-07.jpg#r6c7,-4.18,claude-visual,2026-11-23,"gate: minus sign lost in OCR; image shows -4.18"
+2023/C02-07.jpg#r7c7,-4.07,claude-visual,2026-11-23,"gate: minus sign lost in OCR; image shows -4.07"
+2025/C03-09.jpg#r25c13,75237,claude-visual,2026-11-23,"gate: consensus OCR read 15237; image shows 75237"
+2025/C03-09.jpg#r11c3,27452.1,claude-visual,2026-11-23,"check field: consensus OCR read 27462.1; image shows 27452.1"
