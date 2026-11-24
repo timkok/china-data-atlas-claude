@@ -10,7 +10,11 @@ A static data product that turns the provincial tables of the National Bureau of
 - Every value carries: yearbook edition, table title, raw-file URL, row/column of the cell, extraction method, status (正式/初步/修订/派生), revision note.
 - 120 official raw files kept in `data/raw/nbs_yearbook/` with SHA-256 (`docs/raw_manifest.csv`).
 
-Links: Preview — *see final report* · Repository — this repo.
+Links:
+- Vercel Preview: https://china-data-atlas-claude-cgc0nwahr-timkok621-1320.vercel.app (Vercel Deployment Protection is on: logged-out visitors are redirected to Vercel login)
+- Note: Vercel CLI 66 placed the very first deploy of this new project in its Production environment: https://china-data-atlas-claude-9y8l7i7ru-timkok621-1320.vercel.app (same build; no pre-existing project touched)
+- GitHub: https://github.com/timkok/china-data-atlas-claude · PR: https://github.com/timkok/china-data-atlas-claude/pull/1
+- Drive: China Data Atlas AI Comparison / China Data Atlas - Claude Opus 5.5
 
 ## Reproduce
 ```bash
