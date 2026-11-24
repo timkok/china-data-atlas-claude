@@ -1,0 +1,935 @@
+{
+  "2016/0206CH.jpg": {
+    "bytes": 268547,
+    "edition": 2016,
+    "retrieved": "2026-11-23",
+    "sha256": "e33d312f85d7d71aed58188f12c329a24f1c0c503c17b915476415618378bd82",
+    "table_key": "pop",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2016/html/0206CH.jpg"
+  },
+  "2016/0207CH.jpg": {
+    "bytes": 228973,
+    "edition": 2016,
+    "retrieved": "2026-11-23",
+    "sha256": "8125671f2e9335b9620b22a5a673bd2ec61692f7912f1162b734863bbde89579",
+    "table_key": "urb",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2016/html/0207CH.jpg"
+  },
+  "2016/0208CH.jpg": {
+    "bytes": 211134,
+    "edition": 2016,
+    "retrieved": "2026-11-23",
+    "sha256": "ece3c9cbc00a156a286500affceefd867fafe8db6b7fe89b4fa134791902441b",
+    "table_key": "birth",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2016/html/0208CH.jpg"
+  },
+  "2016/0212CH.jpg": {
+    "bytes": 219935,
+    "edition": 2016,
+    "retrieved": "2026-11-23",
+    "sha256": "b25982405317e57c1b55baf3b5dfa10f5709cd0a6b0a2c1b1659494ab3e8a5fc",
+    "table_key": "age",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2016/html/0212CH.jpg"
+  },
+  "2016/0310CH.jpg": {
+    "bytes": 234630,
+    "edition": 2016,
+    "retrieved": "2026-11-23",
+    "sha256": "dbbccc108d1ae0db4cb13d75a1dc20f34df7ce9cf3eb74c170fe8dcd5f528e25",
+    "table_key": "gdppc16",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2016/html/0310CH.jpg"
+  },
+  "2016/0311CH.jpg": {
+    "bytes": 504991,
+    "edition": 2016,
+    "retrieved": "2026-11-23",
+    "sha256": "87ff9186df307317ad531979a1097f3eb4c6c9705ad932157f6c761dfe6c4215",
+    "table_key": "gdp",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2016/html/0311CH.jpg"
+  },
+  "2016/0617CH.jpg": {
+    "bytes": 124425,
+    "edition": 2016,
+    "retrieved": "2026-11-23",
+    "sha256": "fc96cb98d721408774e775025f7df0481c316ea55e8df9904720d77385ab76bb",
+    "table_key": "inc",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2016/html/0617CH.jpg"
+  },
+  "2016/0619CH.jpg": {
+    "bytes": 112722,
+    "edition": 2016,
+    "retrieved": "2026-11-23",
+    "sha256": "65a8e8454ef5344c51662e479057aa761cf95d2c530d97fc3188aeb7b47d6f2d",
+    "table_key": "cons",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2016/html/0619CH.jpg"
+  },
+  "2016/0705CH.jpg": {
+    "bytes": 548111,
+    "edition": 2016,
+    "retrieved": "2026-11-23",
+    "sha256": "17c36ae44eb006c9e9520a97ad3e1377ee3440b05085e071597a252daa33c122",
+    "table_key": "fis",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2016/html/0705CH.jpg"
+  },
+  "2016/2124CH.jpg": {
+    "bytes": 365965,
+    "edition": 2016,
+    "retrieved": "2026-11-23",
+    "sha256": "a7a2bddc15b8ac9f0cefdba4e0586b7303ed8c1fef8741b0e458c7bc58c3c71f",
+    "table_key": "stu",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2016/html/2124CH.jpg"
+  },
+  "2016/2125CH.jpg": {
+    "bytes": 296769,
+    "edition": 2016,
+    "retrieved": "2026-11-23",
+    "sha256": "81a4f4a24bbd59db22261c44f54b797eedc514e2ec645d9ccd4a40297880fecc",
+    "table_key": "col",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2016/html/2125CH.jpg"
+  },
+  "2016/2208CH.jpg": {
+    "bytes": 228576,
+    "edition": 2016,
+    "retrieved": "2026-11-23",
+    "sha256": "d403376c1341dbd28b9b4d21bd5b0451c5f62866ef4a2667bfe7debde2dc0500",
+    "table_key": "bed",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2016/html/2208CH.jpg"
+  },
+  "2017/CH0206.jpg": {
+    "bytes": 261323,
+    "edition": 2017,
+    "retrieved": "2026-11-23",
+    "sha256": "1900031f2ae8bc7bbc815d67ee4db8dc2f143f85f9a664d73aba993872b773dd",
+    "table_key": "pop",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2017/html/CH0206.jpg"
+  },
+  "2017/CH0207.jpg": {
+    "bytes": 231216,
+    "edition": 2017,
+    "retrieved": "2026-11-23",
+    "sha256": "49a7bfe7fa590e619c4f20ef6983302541d93b75e4b2225fe76fb17112879355",
+    "table_key": "urb",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2017/html/CH0207.jpg"
+  },
+  "2017/CH0208.jpg": {
+    "bytes": 217884,
+    "edition": 2017,
+    "retrieved": "2026-11-23",
+    "sha256": "90eb05fe51ee44e0e536429f3e0c1c326878150b8107c7d7738bc41defdbaf2c",
+    "table_key": "birth",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2017/html/CH0208.jpg"
+  },
+  "2017/CH0212.jpg": {
+    "bytes": 206273,
+    "edition": 2017,
+    "retrieved": "2026-11-23",
+    "sha256": "ecda7839381c6801aeeddf73cd7eaa634199b99192c8dfc9a40cf6ad11791ac9",
+    "table_key": "age",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2017/html/CH0212.jpg"
+  },
+  "2017/CH0309.jpg": {
+    "bytes": 613953,
+    "edition": 2017,
+    "retrieved": "2026-11-23",
+    "sha256": "33c435967cf727c3e08c02dd18e2c53d50ebbfaddf56bb250cd6db9182f808a2",
+    "table_key": "gdp",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2017/html/CH0309.jpg"
+  },
+  "2017/CH0617.jpg": {
+    "bytes": 178281,
+    "edition": 2017,
+    "retrieved": "2026-11-23",
+    "sha256": "cc774049480dc677ccb822298b74f5d443da4fcce7fd8fd21ed657aaafa9323d",
+    "table_key": "inc",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2017/html/CH0617.jpg"
+  },
+  "2017/CH0619.jpg": {
+    "bytes": 148946,
+    "edition": 2017,
+    "retrieved": "2026-11-23",
+    "sha256": "08faecae26224ec597b114f8beb7451ecc567a8cb9eaea440fa716c9a50069db",
+    "table_key": "cons",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2017/html/CH0619.jpg"
+  },
+  "2017/CH0705.jpg": {
+    "bytes": 599879,
+    "edition": 2017,
+    "retrieved": "2026-11-23",
+    "sha256": "3628e80db406703f6057a6cd4085a1794d86843b8ad86e6f0dfef32fb39dc623",
+    "table_key": "fis",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2017/html/CH0705.jpg"
+  },
+  "2017/CH2114.jpg": {
+    "bytes": 422652,
+    "edition": 2017,
+    "retrieved": "2026-11-23",
+    "sha256": "6b772ad38d159facde693121387af701b4d1cd7d82a4aac3727d31f4f2f7c4c2",
+    "table_key": "stu",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2017/html/CH2114.jpg"
+  },
+  "2017/CH2115.jpg": {
+    "bytes": 276487,
+    "edition": 2017,
+    "retrieved": "2026-11-23",
+    "sha256": "010b9f2e1fd130604317fd5f1659415472459d69b3bfdfaf4f379227b3bb5f61",
+    "table_key": "col",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2017/html/CH2115.jpg"
+  },
+  "2017/CH2208.jpg": {
+    "bytes": 189044,
+    "edition": 2017,
+    "retrieved": "2026-11-23",
+    "sha256": "3cbd4f3fa7ce42f1a0250567beaeaf54e3336016b8767d2f3cf456c3dc8d21ca",
+    "table_key": "bed",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2017/html/CH2208.jpg"
+  },
+  "2018/CH0206.jpg": {
+    "bytes": 274149,
+    "edition": 2018,
+    "retrieved": "2026-11-23",
+    "sha256": "056c4ac80a3e7bfca256ba2102330af699a3eb267fe68c939db3907e73f5f669",
+    "table_key": "pop",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2018/html/CH0206.jpg"
+  },
+  "2018/CH0207.jpg": {
+    "bytes": 232245,
+    "edition": 2018,
+    "retrieved": "2026-11-23",
+    "sha256": "c64484c8b0f49fa4a9b425ee93e25a8fd8ae2c88a209b84c56924c24338423ad",
+    "table_key": "urb",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2018/html/CH0207.jpg"
+  },
+  "2018/CH0208.jpg": {
+    "bytes": 227829,
+    "edition": 2018,
+    "retrieved": "2026-11-23",
+    "sha256": "fc8eb41f4496d3fc3c40c989924d4d822dcabe4e253bf9c7436c8b3d0722903c",
+    "table_key": "birth",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2018/html/CH0208.jpg"
+  },
+  "2018/CH0212.jpg": {
+    "bytes": 220986,
+    "edition": 2018,
+    "retrieved": "2026-11-23",
+    "sha256": "3db530158d458c4941f51639ed4bc6c31888403a85f078bd5eea3ace8d8eea67",
+    "table_key": "age",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2018/html/CH0212.jpg"
+  },
+  "2018/CH0309.jpg": {
+    "bytes": 564931,
+    "edition": 2018,
+    "retrieved": "2026-11-23",
+    "sha256": "ecfd7691add8354c8a6bf929016d5de00c70627fa28577edb7399d923804affe",
+    "table_key": "gdp",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2018/html/CH0309.jpg"
+  },
+  "2018/CH0617.jpg": {
+    "bytes": 204153,
+    "edition": 2018,
+    "retrieved": "2026-11-23",
+    "sha256": "7d3363b4b2f7007161d31eda49e6430e9f68e604a97cd9242ee40f756f655707",
+    "table_key": "inc",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2018/html/CH0617.jpg"
+  },
+  "2018/CH0619.jpg": {
+    "bytes": 192240,
+    "edition": 2018,
+    "retrieved": "2026-11-23",
+    "sha256": "5409753d03ca627bed94215284e9544e03b59834aac5ba0e5021d78649e92b17",
+    "table_key": "cons",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2018/html/CH0619.jpg"
+  },
+  "2018/CH0705.jpg": {
+    "bytes": 530140,
+    "edition": 2018,
+    "retrieved": "2026-11-23",
+    "sha256": "79f0eff155479d08a7c55dea99d57e8744eafbfd8905f1178db182e5c391c162",
+    "table_key": "fis",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2018/html/CH0705.jpg"
+  },
+  "2018/CH2114.jpg": {
+    "bytes": 427895,
+    "edition": 2018,
+    "retrieved": "2026-11-23",
+    "sha256": "511565b850cc2b6e35cee96dd674e5227893f8bc8135328bf6a58b12f9610e65",
+    "table_key": "stu",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2018/html/CH2114.jpg"
+  },
+  "2018/CH2115.jpg": {
+    "bytes": 285889,
+    "edition": 2018,
+    "retrieved": "2026-11-23",
+    "sha256": "73c8e640e9a1284b0bfd2a8b657aa31f07b7036039676b1f51d111175ad4d066",
+    "table_key": "col",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2018/html/CH2115.jpg"
+  },
+  "2018/CH2208.jpg": {
+    "bytes": 227599,
+    "edition": 2018,
+    "retrieved": "2026-11-23",
+    "sha256": "eb84608bbace8a49a1be5db8c9cbb16dd7eaea5c20ce9024255584e2df954fa4",
+    "table_key": "bed",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2018/html/CH2208.jpg"
+  },
+  "2019/C0206.jpg": {
+    "bytes": 258652,
+    "edition": 2019,
+    "retrieved": "2026-11-23",
+    "sha256": "7a71ad53c74c19c385826444822d05b27f8aa0187235930d98696467e4751419",
+    "table_key": "pop",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2019/html/C0206.jpg"
+  },
+  "2019/C0207.jpg": {
+    "bytes": 218788,
+    "edition": 2019,
+    "retrieved": "2026-11-23",
+    "sha256": "48148aeba2d4dc416d4d50be8d05e8c2aee362063dd133ac9003a2fd1a591bf7",
+    "table_key": "urb",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2019/html/C0207.jpg"
+  },
+  "2019/C0208.jpg": {
+    "bytes": 212361,
+    "edition": 2019,
+    "retrieved": "2026-11-23",
+    "sha256": "b1a93c3adfa9e9de24305021d7a141335a163d4de0031e18e2f015fa1b7a3b14",
+    "table_key": "birth",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2019/html/C0208.jpg"
+  },
+  "2019/C0212.jpg": {
+    "bytes": 189860,
+    "edition": 2019,
+    "retrieved": "2026-11-23",
+    "sha256": "3cb92a827f28b27266566a33714da1be0a1ec22ea932e43bdbe9a988f8a52966",
+    "table_key": "age",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2019/html/C0212.jpg"
+  },
+  "2019/C0309.jpg": {
+    "bytes": 342983,
+    "edition": 2019,
+    "retrieved": "2026-11-23",
+    "sha256": "33498a455d5969544781b45dd10a392d6d1e27701559fbbae5b43591e1ac54e1",
+    "table_key": "gdp",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2019/html/C0309.jpg"
+  },
+  "2019/C0617.jpg": {
+    "bytes": 135635,
+    "edition": 2019,
+    "retrieved": "2026-11-23",
+    "sha256": "c8a91d5c38ac56673434f546b3abbf19de70ceb243e66b9b841767b190df8783",
+    "table_key": "inc",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2019/html/C0617.jpg"
+  },
+  "2019/C0619.jpg": {
+    "bytes": 135664,
+    "edition": 2019,
+    "retrieved": "2026-11-23",
+    "sha256": "dbefbaa278884c2e6d64367e627a88a41bbdf8b2a982f082832e9ed9907e8a4f",
+    "table_key": "cons",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2019/html/C0619.jpg"
+  },
+  "2019/C0705.jpg": {
+    "bytes": 394312,
+    "edition": 2019,
+    "retrieved": "2026-11-23",
+    "sha256": "f987b248b92c321bade74efdc5ef37140e215cd4f831d53163bca86ba66e6ed9",
+    "table_key": "fis",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2019/html/C0705.jpg"
+  },
+  "2019/C2114.jpg": {
+    "bytes": 335793,
+    "edition": 2019,
+    "retrieved": "2026-11-23",
+    "sha256": "96811bb239f71ca85f01fe459f0b281cef3603171b0e30626a702409536fdafa",
+    "table_key": "stu",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2019/html/C2114.jpg"
+  },
+  "2019/C2115.jpg": {
+    "bytes": 301953,
+    "edition": 2019,
+    "retrieved": "2026-11-23",
+    "sha256": "74c292ba5dc1393050097a9623cd099ce9cae1f2e39e808cf6747d71d27755a2",
+    "table_key": "col",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2019/html/C2115.jpg"
+  },
+  "2019/C2208.jpg": {
+    "bytes": 181678,
+    "edition": 2019,
+    "retrieved": "2026-11-23",
+    "sha256": "16fb984e15381ad3280c98e186c43861571afc8cba72036e8993b3dcc91b431d",
+    "table_key": "bed",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2019/html/C2208.jpg"
+  },
+  "2020/C0206.jpg": {
+    "bytes": 277493,
+    "edition": 2020,
+    "retrieved": "2026-11-23",
+    "sha256": "29d50eabb2522b65d35e53f09008d09ad024bcf074733466a4794a05ceefa1c1",
+    "table_key": "pop",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2020/html/C0206.jpg"
+  },
+  "2020/C0207.jpg": {
+    "bytes": 237015,
+    "edition": 2020,
+    "retrieved": "2026-11-23",
+    "sha256": "257e9249022084d1c44988ce6521717408ff1007192b3fe97c05cce90828a9a2",
+    "table_key": "urb",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2020/html/C0207.jpg"
+  },
+  "2020/C0208.jpg": {
+    "bytes": 215830,
+    "edition": 2020,
+    "retrieved": "2026-11-23",
+    "sha256": "83dfe2f42534406658d32eeaad4096043cec640ea91a6fe6a9c3d840287b326c",
+    "table_key": "birth",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2020/html/C0208.jpg"
+  },
+  "2020/C0212.jpg": {
+    "bytes": 218209,
+    "edition": 2020,
+    "retrieved": "2026-11-23",
+    "sha256": "5ee2a5965716bd886ed81ab99553ac611cdbf3cb8729e3a1ddb8c37fa8f08b43",
+    "table_key": "age",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2020/html/C0212.jpg"
+  },
+  "2020/C0309.jpg": {
+    "bytes": 609655,
+    "edition": 2020,
+    "retrieved": "2026-11-23",
+    "sha256": "bd23fb080f860bddbae2a77e3594bd63beef19192d4cd4347a668ecc13799b16",
+    "table_key": "gdp",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2020/html/C0309.jpg"
+  },
+  "2020/C0617.jpg": {
+    "bytes": 226663,
+    "edition": 2020,
+    "retrieved": "2026-11-23",
+    "sha256": "f905df9c327c77130490c324368c3dce6d29de95e43f718c9c0d9144df0d7e22",
+    "table_key": "inc",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2020/html/C0617.jpg"
+  },
+  "2020/C0619.jpg": {
+    "bytes": 257827,
+    "edition": 2020,
+    "retrieved": "2026-11-23",
+    "sha256": "a5274a7d7acd2dc1f1114b6316bd64aa38deb71ccabf4db1243e82c73c20d98c",
+    "table_key": "cons",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2020/html/C0619.jpg"
+  },
+  "2020/C0705.jpg": {
+    "bytes": 678519,
+    "edition": 2020,
+    "retrieved": "2026-11-23",
+    "sha256": "d5c6e068cab134d6503cfc0d1b346cc46dfadd38794af5171aa693f5918912d0",
+    "table_key": "fis",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2020/html/C0705.jpg"
+  },
+  "2020/C2114.jpg": {
+    "bytes": 371324,
+    "edition": 2020,
+    "retrieved": "2026-11-23",
+    "sha256": "94b8cfc793555c753765f3f5f104e09c2ddfbdfdefc559d8766cd62541c97f29",
+    "table_key": "stu",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2020/html/C2114.jpg"
+  },
+  "2020/C2115.jpg": {
+    "bytes": 285675,
+    "edition": 2020,
+    "retrieved": "2026-11-23",
+    "sha256": "c4de69a865ba84ed4e15d8ea71b1621e6d43a95beaa759015635a804c7db00a4",
+    "table_key": "col",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2020/html/C2115.jpg"
+  },
+  "2020/C2208.jpg": {
+    "bytes": 225479,
+    "edition": 2020,
+    "retrieved": "2026-11-23",
+    "sha256": "07b65f20b4df0cc0eb11dd902edc5b117645d6d832300b88b1fe82a3a4c8a7a3",
+    "table_key": "bed",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2020/html/C2208.jpg"
+  },
+  "2021/C02-05.jpg": {
+    "bytes": 219701,
+    "edition": 2021,
+    "retrieved": "2026-11-23",
+    "sha256": "39ed8eb1f3224ceb7a0d829ecd79a084d9ef1469b2d5db448e4c6310623849d3",
+    "table_key": "pop",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2021/html/C02-05.jpg"
+  },
+  "2021/C02-05.xls": {
+    "sha256": "d37e151bc215751887f0121ea50f2177417f87649c122fc8a3e8765279574dc3",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2021/html/C02-05.xls",
+    "retrieved": "2026-11-23"
+  },
+  "2021/C02-06.jpg": {
+    "bytes": 238738,
+    "edition": 2021,
+    "retrieved": "2026-11-23",
+    "sha256": "ed800decc34537cc70bf33ca1d2ced32274b31409f6006281d14854a0ec215d3",
+    "table_key": "urb",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2021/html/C02-06.jpg"
+  },
+  "2021/C02-06.xls": {
+    "sha256": "168610f84b2540c94eb6a29665cf6ad4fe211225132093c44505146ea7e4e31a",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2021/html/C02-06.xls",
+    "retrieved": "2026-11-23"
+  },
+  "2021/C02-16.jpg": {
+    "bytes": 231865,
+    "edition": 2021,
+    "retrieved": "2026-11-23",
+    "sha256": "35e32dc15df652e3e9a5687ab4494d8b0d8bc60cefaf4948fed106eb36f06940",
+    "table_key": "age",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2021/html/C02-16.jpg"
+  },
+  "2021/C02-16.xls": {
+    "sha256": "d43f5298bf63be3b8bae0dd761a1e49343adfd2dd403177f1f792524693dfa96",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2021/html/C02-16.xls",
+    "retrieved": "2026-11-23"
+  },
+  "2021/C03-09.jpg": {
+    "bytes": 598055,
+    "edition": 2021,
+    "retrieved": "2026-11-23",
+    "sha256": "1281a51bb4bbb206b74e4f718887f1cde7d0b0c176ca6697d09c2a9298efc2e6",
+    "table_key": "gdp",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2021/html/C03-09.jpg"
+  },
+  "2021/C03-09.xls": {
+    "sha256": "9173ce6e71f738135ddfe9fd15254c0e00643999e5d48f5d024dc69ad62b8153",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2021/html/C03-09.xls",
+    "retrieved": "2026-11-23"
+  },
+  "2021/C06-18.jpg": {
+    "bytes": 220154,
+    "edition": 2021,
+    "retrieved": "2026-11-23",
+    "sha256": "c4e6a4f4a71424ba104c3bf1be7ac48949180e5012f09189da2539aa91ae0c30",
+    "table_key": "inc",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2021/html/C06-18.jpg"
+  },
+  "2021/C06-18.xls": {
+    "sha256": "f2e2f00085169e5761e1294eec4188620ab06a0e16ce871d96cb3b7d4a0928b0",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2021/html/C06-18.xls",
+    "retrieved": "2026-11-23"
+  },
+  "2021/C06-20.jpg": {
+    "bytes": 223255,
+    "edition": 2021,
+    "retrieved": "2026-11-23",
+    "sha256": "de528a22076b0f345742af1736740a80f54d18299cafda6d94a9ff4b8aaa3837",
+    "table_key": "cons",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2021/html/C06-20.jpg"
+  },
+  "2021/C06-20.xls": {
+    "sha256": "ef827e7422fe381aed8cb4736d1e60d1b11b17ae395017c6bb6a71e56d7d7276",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2021/html/C06-20.xls",
+    "retrieved": "2026-11-23"
+  },
+  "2021/C07-05.jpg": {
+    "bytes": 604159,
+    "edition": 2021,
+    "retrieved": "2026-11-23",
+    "sha256": "aee6b0127361822f654ae4dc86b24381c9c21a733594af50526e82540a38956b",
+    "table_key": "fis",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2021/html/C07-05.jpg"
+  },
+  "2021/C07-05.xls": {
+    "bytes": 46592,
+    "edition": 2021,
+    "retrieved": "2026-11-23",
+    "sha256": "0189f02b609c2aadb0a5df26ea3a31a1324188f96e99f57514344122124000c2",
+    "table_key": "fis",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2021/html/C07-05.xls"
+  },
+  "2021/C21-14.jpg": {
+    "bytes": 430461,
+    "edition": 2021,
+    "retrieved": "2026-11-23",
+    "sha256": "cede1fb2831e195113bab15091b0175a7b011ad41a787f3d3a1a642693a992bb",
+    "table_key": "stu",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2021/html/C21-14.jpg"
+  },
+  "2021/C21-14.xls": {
+    "sha256": "f494f7887f74d2f4d2641f5f9a277f368333e6ce59779300e9cfa7808ab2c6fa",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2021/html/C21-14.xls",
+    "retrieved": "2026-11-23"
+  },
+  "2021/C21-15.jpg": {
+    "bytes": 284463,
+    "edition": 2021,
+    "retrieved": "2026-11-23",
+    "sha256": "c5dc2f6f2821bef9721cd9368e02637a3eb045f596128318ad443136b86e2008",
+    "table_key": "col",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2021/html/C21-15.jpg"
+  },
+  "2021/C21-15.xls": {
+    "sha256": "0444eea3433f17551628579ad3d4885281368acabc1892ec892e09405ffe4079",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2021/html/C21-15.xls",
+    "retrieved": "2026-11-23"
+  },
+  "2021/C22-08.jpg": {
+    "bytes": 224981,
+    "edition": 2021,
+    "retrieved": "2026-11-23",
+    "sha256": "bd4fd1082b7f2b3cd47b894808a726f81aefac3dc10e64e2565c005745b96d21",
+    "table_key": "bed",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2021/html/C22-08.jpg"
+  },
+  "2021/C22-08.xls": {
+    "sha256": "8dfeca4d31f7de53abe4446ddfaca54391e4926ea0f6307d881cc461d4fec966",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2021/html/C22-08.xls",
+    "retrieved": "2026-11-23"
+  },
+  "2022/C02-05.jpg": {
+    "bytes": 223107,
+    "edition": 2022,
+    "retrieved": "2026-11-23",
+    "sha256": "752a31a80bcc621bbf0de3ab0c45d760f36381b48b82f47e3848e9e3c9f13bae",
+    "table_key": "pop",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2022/html/C02-05.jpg"
+  },
+  "2022/C02-06.jpg": {
+    "bytes": 235866,
+    "edition": 2022,
+    "retrieved": "2026-11-23",
+    "sha256": "9a7292836d2cd4eaebc917eb2f9e3cc3c5092492f31957a4b6953d50d7ee07dd",
+    "table_key": "urb",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2022/html/C02-06.jpg"
+  },
+  "2022/C02-07.jpg": {
+    "bytes": 212309,
+    "edition": 2022,
+    "retrieved": "2026-11-23",
+    "sha256": "749c32ddda9016f5bc2ec1e3305439a2126b56cdbb6deace98ed9e42324f683a",
+    "table_key": "birth",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2022/html/C02-07.jpg"
+  },
+  "2022/C02-11.jpg": {
+    "bytes": 191749,
+    "edition": 2022,
+    "retrieved": "2026-11-23",
+    "sha256": "35a6c31f4277a49c2d38fec5c95a5111afcf79c63d9a7f7b0c4f59b3e4c2ece2",
+    "table_key": "age",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2022/html/C02-11.jpg"
+  },
+  "2022/C03-09.jpg": {
+    "bytes": 527880,
+    "edition": 2022,
+    "retrieved": "2026-11-23",
+    "sha256": "ba2553bcf46ba5d12ce42da224d0756b5629cd3a104d122054ae7bd6c59d1236",
+    "table_key": "gdp",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2022/html/C03-09.jpg"
+  },
+  "2022/C06-18.jpg": {
+    "bytes": 227645,
+    "edition": 2022,
+    "retrieved": "2026-11-23",
+    "sha256": "8306683b6bbc1cf2859fbfd04654d9826bd690c5f823a2beeff754fc01d2a29f",
+    "table_key": "inc",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2022/html/C06-18.jpg"
+  },
+  "2022/C06-20.jpg": {
+    "bytes": 223613,
+    "edition": 2022,
+    "retrieved": "2026-11-23",
+    "sha256": "9efdb6a14370903ed9408500d252071b1c9916b9d1677b9367304a32ad1a7f6e",
+    "table_key": "cons",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2022/html/C06-20.jpg"
+  },
+  "2022/C07-05.jpg": {
+    "bytes": 583686,
+    "edition": 2022,
+    "retrieved": "2026-11-23",
+    "sha256": "06b71df8ae1e8d3af3ad1a30dc66bb6b554f12eb94c16e165f04ed74625d6ba8",
+    "table_key": "fis",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2022/html/C07-05.jpg"
+  },
+  "2022/C21-14.jpg": {
+    "bytes": 403697,
+    "edition": 2022,
+    "retrieved": "2026-11-23",
+    "sha256": "11cdcc0e018e60dac595341d6dec60b47dddea1b16ca3954c76549f24b3a2138",
+    "table_key": "stu",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2022/html/C21-14.jpg"
+  },
+  "2022/C21-15.jpg": {
+    "bytes": 261524,
+    "edition": 2022,
+    "retrieved": "2026-11-23",
+    "sha256": "8d8e9024a391c1424c2db24ceaa5c9b8acbe6bd9aebb296f8c621a19cf58c21e",
+    "table_key": "col",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2022/html/C21-15.jpg"
+  },
+  "2022/C22-08.jpg": {
+    "bytes": 196532,
+    "edition": 2022,
+    "retrieved": "2026-11-23",
+    "sha256": "d8d77e24604e58ba1608ef511c1d01f25f51ec62cf18512ba62366e495043c65",
+    "table_key": "bed",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2022/html/C22-08.jpg"
+  },
+  "2023/C02-05.jpg": {
+    "bytes": 223087,
+    "edition": 2023,
+    "retrieved": "2026-11-23",
+    "sha256": "909a15f85612c52e3c6313cfb62e0bcea09a1536172bfc04c45dbcd64e1cbb33",
+    "table_key": "pop",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2023/html/C02-05.jpg"
+  },
+  "2023/C02-06.jpg": {
+    "bytes": 242366,
+    "edition": 2023,
+    "retrieved": "2026-11-23",
+    "sha256": "5273a65b028168e1fee918e98c18ebb2f132750d2a8efdaa34ea3878e70f526b",
+    "table_key": "urb",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2023/html/C02-06.jpg"
+  },
+  "2023/C02-07.jpg": {
+    "bytes": 200602,
+    "edition": 2023,
+    "retrieved": "2026-11-23",
+    "sha256": "097de88ff205c98b44a54d783e78a38a0a514bb77384e98204b64207cc5d61a9",
+    "table_key": "birth",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2023/html/C02-07.jpg"
+  },
+  "2023/C02-11.jpg": {
+    "bytes": 199282,
+    "edition": 2023,
+    "retrieved": "2026-11-23",
+    "sha256": "f7889afdf3967c55fb64a6388b197411b53550c866bb54f86018d155f06dbd90",
+    "table_key": "age",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2023/html/C02-11.jpg"
+  },
+  "2023/C03-09.jpg": {
+    "bytes": 627280,
+    "edition": 2023,
+    "retrieved": "2026-11-23",
+    "sha256": "ea730270172974fbb66b92a977810d74662951ced2cc69e3f8bd798b89a13139",
+    "table_key": "gdp",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2023/html/C03-09.jpg"
+  },
+  "2023/C06-18.jpg": {
+    "bytes": 230719,
+    "edition": 2023,
+    "retrieved": "2026-11-23",
+    "sha256": "369915de456d90f4e57eb1192eef836b3659fe1533beb1691b08f4f452e55b1f",
+    "table_key": "inc",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2023/html/C06-18.jpg"
+  },
+  "2023/C06-20.jpg": {
+    "bytes": 221586,
+    "edition": 2023,
+    "retrieved": "2026-11-23",
+    "sha256": "0bdc419e998572fceff1b2344928c84c3de868a59dd7386ebc5d61c4fee38ec7",
+    "table_key": "cons",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2023/html/C06-20.jpg"
+  },
+  "2023/C07-05.jpg": {
+    "bytes": 570219,
+    "edition": 2023,
+    "retrieved": "2026-11-23",
+    "sha256": "48ba03debc3bddab4d047a67a03f9700c1cad0abf79e7518cf9ccf046aa66dab",
+    "table_key": "fis",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2023/html/C07-05.jpg"
+  },
+  "2023/C21-14.jpg": {
+    "bytes": 501676,
+    "edition": 2023,
+    "retrieved": "2026-11-23",
+    "sha256": "ae0e813ed74b7843c2cc4340008b74c0f3a5e3a2d4b8f58624a8e9eb44f2d8b7",
+    "table_key": "stu",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2023/html/C21-14.jpg"
+  },
+  "2023/C21-15.jpg": {
+    "bytes": 276306,
+    "edition": 2023,
+    "retrieved": "2026-11-23",
+    "sha256": "0eedb40f84172c310729be69145300c490fe1b19946e2d78229be5e15188645d",
+    "table_key": "col",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2023/html/C21-15.jpg"
+  },
+  "2023/C22-08.jpg": {
+    "bytes": 195169,
+    "edition": 2023,
+    "retrieved": "2026-11-23",
+    "sha256": "115e1e57aca54b95efabac47f68906b6946566ea718f14c2bd037385e40cd33c",
+    "table_key": "bed",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2023/html/C22-08.jpg"
+  },
+  "2024/C02-05.jpg": {
+    "bytes": 218618,
+    "edition": 2024,
+    "retrieved": "2026-11-23",
+    "sha256": "4e712a383c57a106893ca76ec67acd8e3f099fb2d03124e382e3bf06a91401c8",
+    "table_key": "pop",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2024/html/C02-05.jpg"
+  },
+  "2024/C02-06.jpg": {
+    "bytes": 243119,
+    "edition": 2024,
+    "retrieved": "2026-11-23",
+    "sha256": "8f312d60062326f3227b8058b8d4a1f2dc00bf242baa162d3e771e8128ce49d6",
+    "table_key": "urb",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2024/html/C02-06.jpg"
+  },
+  "2024/C02-07.jpg": {
+    "bytes": 219726,
+    "edition": 2024,
+    "retrieved": "2026-11-23",
+    "sha256": "ad44b9a55edcb5ccf639c902d7952144be38b4b1bc4e5d2b61d51d8c27d2ce6e",
+    "table_key": "birth",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2024/html/C02-07.jpg"
+  },
+  "2024/C02-11.jpg": {
+    "bytes": 198364,
+    "edition": 2024,
+    "retrieved": "2026-11-23",
+    "sha256": "91549e3334620a26bb1e557c40bd8583e2b91d4963fd440cd68e8cf44142cb3c",
+    "table_key": "age",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2024/html/C02-11.jpg"
+  },
+  "2024/C03-09.jpg": {
+    "bytes": 525706,
+    "edition": 2024,
+    "retrieved": "2026-11-23",
+    "sha256": "05bf391de9d2d9e2e54627960c387824a7b2247c3af536db2ffe59943f91666b",
+    "table_key": "gdp",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2024/html/C03-09.jpg"
+  },
+  "2024/C06-18.jpg": {
+    "bytes": 187481,
+    "edition": 2024,
+    "retrieved": "2026-11-23",
+    "sha256": "158de7129ebb90d5fa853076d9b177a372b031c27cf1ebab80e944be5c196022",
+    "table_key": "inc",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2024/html/C06-18.jpg"
+  },
+  "2024/C06-20.jpg": {
+    "bytes": 183225,
+    "edition": 2024,
+    "retrieved": "2026-11-23",
+    "sha256": "e9445fee84b8c321a2052d58df0c1c9d7fcb42492fa55454116c9d0aa652b0dc",
+    "table_key": "cons",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2024/html/C06-20.jpg"
+  },
+  "2024/C07-05.jpg": {
+    "bytes": 616710,
+    "edition": 2024,
+    "retrieved": "2026-11-23",
+    "sha256": "5ee0c54d354191cd907580fca83b91b8b0b4578e060454de2808c728ef4a3910",
+    "table_key": "fis",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2024/html/C07-05.jpg"
+  },
+  "2024/C21-14.jpg": {
+    "bytes": 493023,
+    "edition": 2024,
+    "retrieved": "2026-11-23",
+    "sha256": "f9373bf6505a41ebcc15ad489d9806d13c49720d32c6c9b35b373aeb93374a55",
+    "table_key": "stu",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2024/html/C21-14.jpg"
+  },
+  "2024/C21-15.jpg": {
+    "bytes": 278394,
+    "edition": 2024,
+    "retrieved": "2026-11-23",
+    "sha256": "9526b336895e384d079d31dd47d261664f6cc1411c8787ab40b6e39022a2dc7f",
+    "table_key": "col",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2024/html/C21-15.jpg"
+  },
+  "2024/C22-08.jpg": {
+    "bytes": 223178,
+    "edition": 2024,
+    "retrieved": "2026-11-23",
+    "sha256": "430dde955817bb8a90c24f3966eba0c558eb33e04170b52e86522921d3f5832b",
+    "table_key": "bed",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2024/html/C22-08.jpg"
+  },
+  "2025/C02-05.jpg": {
+    "bytes": 218438,
+    "edition": 2025,
+    "retrieved": "2026-11-23",
+    "sha256": "6afd253cf5acbab9205abb9cbdcd6aae2cff977420a94f9d338f83b7f50bf32c",
+    "table_key": "pop",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C02-05.jpg"
+  },
+  "2025/C02-06.jpg": {
+    "bytes": 234003,
+    "edition": 2025,
+    "retrieved": "2026-11-23",
+    "sha256": "68046f223238d0e2aa84f487cfc974ffe00420530e90c4341e9e811b54fa5903",
+    "table_key": "urb",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C02-06.jpg"
+  },
+  "2025/C02-07.jpg": {
+    "bytes": 213720,
+    "edition": 2025,
+    "retrieved": "2026-11-23",
+    "sha256": "928849895a74708162f766030baafb0013fee1653fa0a1b001532c51b0c2687e",
+    "table_key": "birth",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C02-07.jpg"
+  },
+  "2025/C02-11.jpg": {
+    "bytes": 195788,
+    "edition": 2025,
+    "retrieved": "2026-11-23",
+    "sha256": "07645ea3655d2c07dbc57c6402bf70f0190951aed891b60fd24914ed4a436e8c",
+    "table_key": "age",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C02-11.jpg"
+  },
+  "2025/C03-09.jpg": {
+    "bytes": 550889,
+    "edition": 2025,
+    "retrieved": "2026-11-23",
+    "sha256": "9576529a881b83beac4718594f3a26d2e1949947a65c7e375b4a5f1c6a69688e",
+    "table_key": "gdp",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C03-09.jpg"
+  },
+  "2025/C06-18.jpg": {
+    "bytes": 223216,
+    "edition": 2025,
+    "retrieved": "2026-11-23",
+    "sha256": "35f70042ce23cc42bd2c1a773dc24b62ce2ccafb1f9ca044ec038bcb3e9de6be",
+    "table_key": "inc",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C06-18.jpg"
+  },
+  "2025/C06-20.jpg": {
+    "bytes": 219140,
+    "edition": 2025,
+    "retrieved": "2026-11-23",
+    "sha256": "b44db6d144aebcbccf5722003608a05cafee366372839e023523eb20b186d5bc",
+    "table_key": "cons",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C06-20.jpg"
+  },
+  "2025/C07-05.jpg": {
+    "bytes": 605448,
+    "edition": 2025,
+    "retrieved": "2026-11-23",
+    "sha256": "8a7dbdbed04daa4de79183dc882d211b932feb7cf108f08b0d02ed86f1ec5961",
+    "table_key": "fis",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C07-05.jpg"
+  },
+  "2025/C21-14.jpg": {
+    "bytes": 424808,
+    "edition": 2025,
+    "retrieved": "2026-11-23",
+    "sha256": "c7b8ab901aa0866a8b25222a3b6f102064d9836d9a33f858252f3755af328696",
+    "table_key": "stu",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C21-14.jpg"
+  },
+  "2025/C21-15.jpg": {
+    "bytes": 255044,
+    "edition": 2025,
+    "retrieved": "2026-11-23",
+    "sha256": "edf72b0fc0264108527e0a62747bfbd5deda0d7adf2b98163821e690788768f1",
+    "table_key": "col",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C21-15.jpg"
+  },
+  "2025/C22-08.jpg": {
+    "bytes": 192216,
+    "edition": 2025,
+    "retrieved": "2026-11-23",
+    "sha256": "5c2d4b4a145af43c11d45811090ab1c73bfbd6b8125ccce683b12a9d7f9f6a05",
+    "table_key": "bed",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C22-08.jpg"
+  }
+}
